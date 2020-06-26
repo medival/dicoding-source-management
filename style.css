@@ -1,0 +1,19 @@
+body {
+    width: 100%;
+    margin: 30px;
+}
+
+#profile-container {
+    max-width: 20rem;
+    border-bottom: 1px solid gray;
+    margin: 0 auto;
+}
+
+#profile-picture {
+    width: 100%;
+    height: auto;
+}
+
+#profile-name {
+    text-align: center;
+}
