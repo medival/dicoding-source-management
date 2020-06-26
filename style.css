@@ -42,3 +42,7 @@ body {
     font-size: 2rem;
     line-height: 5rem;
 }
+
+#profile-job {
+    text-align: center;
+}
