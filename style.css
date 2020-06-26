@@ -30,6 +30,8 @@ body {
     text-align: center;
     background-color: #eee;
     font-size: 2rem;
+    bottom: 0;
+    position: absolute;
 }
 
 #header {
